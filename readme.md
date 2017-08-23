@@ -27,4 +27,4 @@ In addition to the main challenge:
 	in the DataTable options array. I'm doing it this way as a blank screen on initial load is 
 	perferable to a screen that jumps about when the table renders.
 * `resouces/views/index.blade.php`
-	* This is the html file that is rendered when accessing [the page](gosolid.ethanfederman.com)
+	* This is the html file that is rendered when accessing [the page](http://gosolid.ethanfederman.com)
