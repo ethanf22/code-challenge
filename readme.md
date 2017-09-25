@@ -1,6 +1,6 @@
-## Gosolid Coding Challenge
+## Coding Challenge
 
-This site is a completion of the Gosolid coding challenge.
+This site is a completion of a coding challenge.
 
 Of note, the site displays a list of employees, their boss' name, and the distance from the CEO.
 
